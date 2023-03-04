@@ -1,3 +1,5 @@
+#구현 https://www.acmicpc.net/problem/1157
+#문제 : 단어공부
 import sys
 from collections import Counter
 input = sys.stdin.readline
